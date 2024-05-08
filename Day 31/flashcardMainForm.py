@@ -72,8 +72,8 @@ class FlashcardMainForm:
         self.fileMenu.add_command(label="Exit", command=self.onClose)
         self.imageOnCanvas = self.cardCanvas.create_image(400, 263, image=self.images["front"])
         self.cardCanvas.grid(row=0, column=0, columnspan=2)
-        self.headingLabel = self.cardCanvas.create_text(400, 150, text="Heading", font=("Ariel", 40, "italic"))
-        self.qaLabel = self.cardCanvas.create_text(400, 263, text="Question/Answer", font=("Ariel", 40, "bold"), width=700)
+        self.headingLabel = self.cardCanvas.create_text(400, 150, text="Heading", font=("Arial", 40, "italic"))
+        self.qaLabel = self.cardCanvas.create_text(400, 263, text="Question/Answer", font=("Arial", 40, "bold"), width=700)
 
         self.wrongButton.grid(row=1, column=0)
         self.rightButton.grid(row=1, column=1)
