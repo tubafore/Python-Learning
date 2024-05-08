@@ -1,4 +1,3 @@
-from threading import Timer
 from time import time
 from tkinter import *
 from tkinter import filedialog
@@ -40,7 +39,8 @@ class FlashcardMainForm:
         self.mruDecks = self.loadMru()
         self.setupUI()
         self.loadMruMenuItems()
-        self.timer = Timer(0,self.doNothing)
+        #to hold the delay id later
+        self.timer = ""
         if len(self.model.models) > 0:
             self.loadFront()
         self.root.mainloop()
@@ -81,7 +81,7 @@ class FlashcardMainForm:
 
     def onClose(self) -> None:
         self.saveDeck()
-        self.timer.cancel()
+        self.root.after_cancel(self.timer)
         self.root.grab_release()
         self.root.destroy()
 
@@ -178,17 +178,16 @@ class FlashcardMainForm:
 
     def loadFront(self) -> None:
         self.cardCanvas.itemconfig(self.imageOnCanvas, image=self.images["front"])
-        self.cardCanvas.itemconfig(self.headingLabel, text=self.model.questionHeading)
-        self.cardCanvas.itemconfig(self.qaLabel, text=self.model.CurrentCard().flashCard.questionText)
+        self.cardCanvas.itemconfig(self.headingLabel, text=self.model.questionHeading, fill="black")
+        self.cardCanvas.itemconfig(self.qaLabel, text=self.model.CurrentCard().flashCard.questionText, fill="black")
         self.rightButton["state"] = 'disabled'
         self.wrongButton["state"] = 'disabled'
-        self.timer = Timer(3.0, self.loadBack)
-        self.timer.start()
+        self.timer = self.root.after(3000, self.loadBack)
 
     def loadBack(self) -> None:
         self.cardCanvas.itemconfig(self.imageOnCanvas, image=self.images["back"])
-        self.cardCanvas.itemconfig(self.headingLabel, text=self.model.answerHeading)
-        self.cardCanvas.itemconfig(self.qaLabel, text=self.model.CurrentCard().flashCard.answerText)
+        self.cardCanvas.itemconfig(self.headingLabel, text=self.model.answerHeading, fill="white")
+        self.cardCanvas.itemconfig(self.qaLabel, text=self.model.CurrentCard().flashCard.answerText, fill="white")
         self.rightButton["state"] = 'normal'
         self.wrongButton["state"] = 'normal'
 
