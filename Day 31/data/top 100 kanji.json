@@ -1,0 +1,910 @@
+{
+    "source": "C:/Users/Jonathan/source/repos/Python/Day 31/data/Top 100 Kanji .csv",
+    "questionHeading": "Kanji",
+    "answerHeading": "Meaning",
+    "models": [
+        {
+            "flashCard": {
+                "questionText": "\u65e5",
+                "answerText": "day, sun, Japan, counter for days"
+            },
+            "mostRecentCorrectAnswer": 1715140665.399572,
+            "interval": 9
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e00",
+                "answerText": "one"
+            },
+            "mostRecentCorrectAnswer": 1715140676.890486,
+            "interval": 9
+        },
+        {
+            "flashCard": {
+                "questionText": "\u56fd",
+                "answerText": "country"
+            },
+            "mostRecentCorrectAnswer": 1715140736.0819573,
+            "interval": 5
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4f1a",
+                "answerText": "meeting; meet"
+            },
+            "mostRecentCorrectAnswer": 1715140739.4860065,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4eba",
+                "answerText": "person"
+            },
+            "mostRecentCorrectAnswer": 1715140743.5935462,
+            "interval": 5
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5e74",
+                "answerText": "year, counter for years"
+            },
+            "mostRecentCorrectAnswer": 1715115974.3135269,
+            "interval": 0
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5927",
+                "answerText": "large, big"
+            },
+            "mostRecentCorrectAnswer": 1715169471.6428926,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5341",
+                "answerText": "ten, 10"
+            },
+            "mostRecentCorrectAnswer": 1715169461.6779506,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e8c",
+                "answerText": "two, 2"
+            },
+            "mostRecentCorrectAnswer": 1715115988.39553,
+            "interval": 0
+        },
+        {
+            "flashCard": {
+                "questionText": "\u672c",
+                "answerText": "book, present, true, counter for long cylindrical things"
+            },
+            "mostRecentCorrectAnswer": 1715169445.1982481,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e2d",
+                "answerText": "in, inside, middle, mean, center"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9577",
+                "answerText": "long, leader, superior, senior"
+            },
+            "mostRecentCorrectAnswer": 1715138160.2942865,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u51fa",
+                "answerText": "exit, leave, go out"
+            },
+            "mostRecentCorrectAnswer": 1715138164.6651402,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e09",
+                "answerText": "three, 3"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u540c",
+                "answerText": "same, agree, equal"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6642",
+                "answerText": "time, hour"
+            },
+            "mostRecentCorrectAnswer": 1715169507.8379908,
+            "interval": 0
+        },
+        {
+            "flashCard": {
+                "questionText": "\u653f",
+                "answerText": "politics, government"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e8b",
+                "answerText": "matter, thing, fact, business, reason, possibly"
+            },
+            "mostRecentCorrectAnswer": 1715138191.4464064,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u81ea",
+                "answerText": "oneself"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u884c",
+                "answerText": "going, journey, carry out, line, row"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u793e",
+                "answerText": "company, firm, office, association, shrine"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u898b",
+                "answerText": "see, hopes, chances, idea, opinion, look at, visible"
+            },
+            "mostRecentCorrectAnswer": 1715138211.91801,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6708",
+                "answerText": "month, moon"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5206",
+                "answerText": "part, minute of time, understand"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u8b70",
+                "answerText": "deliberation, consultation, debate"
+            },
+            "mostRecentCorrectAnswer": 1715138224.9668407,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5f8c",
+                "answerText": "behind, back, later"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u524d",
+                "answerText": "in front, before"
+            },
+            "mostRecentCorrectAnswer": 1715138232.954704,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6c11",
+                "answerText": "people, nation, subjects"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u751f",
+                "answerText": "life, genuine, birth"
+            },
+            "mostRecentCorrectAnswer": 1715138241.564942,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9023",
+                "answerText": "take along, lead, join, connect"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e94",
+                "answerText": "five, 5"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u767a",
+                "answerText": "departure, discharge, emit, start from"
+            },
+            "mostRecentCorrectAnswer": 1715138254.8365197,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9593",
+                "answerText": "interval, space"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -2
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5bfe",
+                "answerText": "opposite, even, equal, versus, anti-, compare"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e0a",
+                "answerText": "above, up"
+            },
+            "mostRecentCorrectAnswer": 1715138268.6891446,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u90e8",
+                "answerText": "section, bureau, dept, class, copy, part, portion"
+            },
+            "mostRecentCorrectAnswer": 1715138272.6506753,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6771",
+                "answerText": "east"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u8005",
+                "answerText": "someone, person"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u515a",
+                "answerText": "party, faction, clique"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5730",
+                "answerText": "ground, earth"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5408",
+                "answerText": "fit, suit, join, 0.1"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5e02",
+                "answerText": "market, city, town"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u696d",
+                "answerText": "business, vocation, arts, performance"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5185",
+                "answerText": "inside, within, between, among, house, home"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u76f8",
+                "answerText": "inter-, mutual, together, each other, minister of state"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u65b9",
+                "answerText": "direction, person, alternative"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u56db",
+                "answerText": "four, 4"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5b9a",
+                "answerText": "determine, fix, establish, decide"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4eca",
+                "answerText": "now; the present"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u56de",
+                "answerText": "-times, round, revolve, counter"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u65b0",
+                "answerText": "new"
+            },
+            "mostRecentCorrectAnswer": 1715138341.6313615,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5834",
+                "answerText": "location, place"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u91d1",
+                "answerText": "gold"
+            },
+            "mostRecentCorrectAnswer": 1715138352.3911583,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u54e1",
+                "answerText": "employee, member, number, the one in charge"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e5d",
+                "answerText": "nine, 9"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5165",
+                "answerText": "enter, insert"
+            },
+            "mostRecentCorrectAnswer": 1715138364.7445052,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9078",
+                "answerText": "elect, select, choose, prefer"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7acb",
+                "answerText": "stand up, rise"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u958b",
+                "answerText": "open, unfold, unseal"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u624b",
+                "answerText": "hand"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7c73",
+                "answerText": "rice, USA, meter"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u529b",
+                "answerText": "power, strength, strong, strain, bear up, exert"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5b66",
+                "answerText": "study, learning, science"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u554f",
+                "answerText": "question, ask, problem"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9ad8",
+                "answerText": "tall, high, expensive"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4ee3",
+                "answerText": "substitute, change, convert, replace, period"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u660e",
+                "answerText": "bright, light"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -2
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5b9f",
+                "answerText": "reality, truth"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5186",
+                "answerText": "circle, yen, round"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u95a2",
+                "answerText": "connection, barrier, gateway, involve, concerning"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6c7a",
+                "answerText": "decide, fix, agree upon, appoint"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5b50",
+                "answerText": "child"
+            },
+            "mostRecentCorrectAnswer": 1715138449.3138692,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u52d5",
+                "answerText": "move, motion, change"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4eac",
+                "answerText": "capital"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5168",
+                "answerText": "whole, entire, all, complete, fulfill"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u76ee",
+                "answerText": "eye, class, look, insight, experience"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u8868",
+                "answerText": "surface, table, chart, diagram"
+            },
+            "mostRecentCorrectAnswer": 1715138473.6507418,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6226",
+                "answerText": "war, battle, match"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7d4c",
+                "answerText": "longitude, pass thru, expire, warp"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u901a",
+                "answerText": "traffic, pass through, avenue, commute"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5916",
+                "answerText": "outside"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -2
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6700",
+                "answerText": "utmost, most, extreme"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -2
+        },
+        {
+            "flashCard": {
+                "questionText": "\u8a00",
+                "answerText": "say, word"
+            },
+            "mostRecentCorrectAnswer": 1715138512.866631,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6c0f",
+                "answerText": "family name, surname, clan"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u73fe",
+                "answerText": "present, existing, actual"
+            },
+            "mostRecentCorrectAnswer": 1715138521.9033659,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7406",
+                "answerText": "logic, arrangement, reason, justice, truth"
+            },
+            "mostRecentCorrectAnswer": 1715138526.5755823,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u8abf",
+                "answerText": "tune, tone, meter, prepare, investigate"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4f53",
+                "answerText": "body, substance, object, reality"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5316",
+                "answerText": "change, take the form of, influence, enchant, delude, -ization"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -2
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7530",
+                "answerText": "rice field, rice paddy"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u5f53",
+                "answerText": "hit, right, appropriate"
+            },
+            "mostRecentCorrectAnswer": 1715138551.3225572,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u516b",
+                "answerText": "eight, 8"
+            },
+            "mostRecentCorrectAnswer": 1715138554.8154616,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u516d",
+                "answerText": "six, 6"
+            },
+            "mostRecentCorrectAnswer": 1715138559.2705033,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u7d04",
+                "answerText": "promise, approximately, shrink"
+            },
+            "mostRecentCorrectAnswer": 1715138563.043065,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e3b",
+                "answerText": "lord, chief, master, main thing, principal"
+            },
+            "mostRecentCorrectAnswer": 1715138566.5064669,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u984c",
+                "answerText": "topic, subject"
+            },
+            "mostRecentCorrectAnswer": 1715138570.4635913,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u4e0b",
+                "answerText": "below, down, descend, give, low, inferior"
+            },
+            "mostRecentCorrectAnswer": 1715115020.7581997,
+            "interval": -1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u9996",
+                "answerText": "neck"
+            },
+            "mostRecentCorrectAnswer": 1715138578.3767562,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u610f",
+                "answerText": "idea, mind, heart, taste, thought"
+            },
+            "mostRecentCorrectAnswer": 1715138582.6705706,
+            "interval": 1
+        },
+        {
+            "flashCard": {
+                "questionText": "\u6cd5",
+                "answerText": "method, law, rule, principle, model, system"
+            },
+            "mostRecentCorrectAnswer": 1715138586.069233,
+            "interval": 1
+        }
+    ],
+    "indices": [
+        81,
+        32,
+        66,
+        88,
+        80,
+        77,
+        73,
+        37,
+        22,
+        65,
+        78,
+        63,
+        59,
+        45,
+        56,
+        6,
+        53,
+        72,
+        39,
+        33,
+        57,
+        41,
+        14,
+        54,
+        48,
+        23,
+        58,
+        40,
+        30,
+        86,
+        25,
+        87,
+        38,
+        64,
+        69,
+        42,
+        27,
+        74,
+        70,
+        16,
+        47,
+        51,
+        36,
+        83,
+        49,
+        19,
+        96,
+        9,
+        7,
+        43,
+        79,
+        29,
+        44,
+        20,
+        60,
+        61,
+        18,
+        67,
+        10,
+        68,
+        46,
+        62,
+        13,
+        89,
+        75,
+        82,
+        55,
+        8,
+        90,
+        31,
+        34,
+        17,
+        5,
+        28,
+        91,
+        71,
+        15,
+        98,
+        3,
+        35,
+        84,
+        92,
+        97,
+        99,
+        21,
+        11,
+        76,
+        26,
+        93,
+        52,
+        24,
+        85,
+        12,
+        95,
+        50,
+        94,
+        4,
+        2,
+        1,
+        0
+    ],
+    "currentIndex": 0
+}

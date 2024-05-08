@@ -1,0 +1,15 @@
+STARTING_POSITION = -280
+MOVE_DISTANCE = 10
+FINISH_LINE_Y = 280
+COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
+STARTING_MOVE_DISTANCE = 5
+MOVE_INCREMENT = 10
+FONT = ("Courier", 24, "bold")
+CAR_PADDING = 50
+CAR_GENERATION_FREQUENCY = 5
+TOP = 0
+LEFT = 0
+BOTTOM = 1
+RIGHT = 1 
+X = 0
+Y = 1
